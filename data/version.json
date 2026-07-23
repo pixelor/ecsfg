@@ -1,0 +1,50 @@
+{
+    "versionCode": 10,
+    "apkUrl": "https://example.com/shadowshare_v1.2.0.apk",
+    "title": "发现新版本 v1.2.0",
+    "message": "1. 新增会员专属主题\n2. 优化收藏功能\n3. 修复已知问题",
+    "forceDays": 30,
+    "playUrl": "https://play.google.com/store/apps/details?id=com.v2cross.shadowshare",
+    "notices_zh": [
+      "本软件提供的节点完全免费",
+      "我们会永远免费提供服务",
+      "论坛地址v2cross.net",
+      "使用教程请查看官网https://shadowshare.v2cross.com帮助中心",
+      "我们会随机对部分优质用户展示一些广告来维持永久的免费服务",
+      "节点每6小时测速更新一次",
+      "本应用只提供各种协议节点，不提供VPN连接服务",
+      "请自行导入到其他代理工具测速排序使用",
+      "国内App Store可搜索下载outline等代理工具配合使用",
+      "免费节点及机场节点用户较多，容易拥挤",
+      "有条件的用户建议联系群主定制搭建个人独享节点",
+      "了解更多知识请访问v2cross.com学习入门技术"
+    ],
+    "notices_en": [
+      "All nodes provided by this app are completely free",
+      "We will always provide free service",
+      "Forum: v2cross.net",
+      "Tutorials available at https://shadowshare.v2cross.com Help Center",
+      "We display ads to some users to sustain our free service",
+      "Nodes are speed-tested and updated every 6 hours",
+      "This app only provides protocol nodes, not VPN connection service",
+      "Please import nodes into other proxy tools for use",
+      "Outline and other proxy tools are available on the App Store",
+      "Free and public nodes may be crowded due to high usage",
+      "For better experience, contact admin for dedicated private nodes",
+      "Learn more at v2cross.com"
+    ],
+    "notices_fa": [
+      "تمام نودهای ارائه شده در این برنامه کاملاً رایگان هستند",
+      "ما همیشه خدمات رایگان ارائه خواهیم داد",
+      "انجمن: v2cross.net",
+      "آموزش‌ها در https://shadowshare.v2cross.com موجود است",
+      "برای حفظ سرویس رایگان، تبلیغاتی به برخی کاربران نمایش داده می‌شود",
+      "نودها هر ۶ ساعت تست سرعت و به‌روزرسانی می‌شوند",
+      "این برنامه فقط نود پروتکل ارائه می‌دهد، نه سرویس VPN",
+      "لطفاً نودها را به ابزارهای پروکسی دیگر وارد کنید",
+      "Outline و ابزارهای پروکسی دیگر در App Store موجود هستند",
+      "نودهای رایگان به دلیل تعداد زیاد کاربران ممکن است شلوغ باشند",
+      "برای تجربه بهتر، با مدیر برای نود اختصاصی تماس بگیرید",
+      "v2cross.com برای اطلاعات بیشتر به مراجعه کنید"
+    ]
+}
